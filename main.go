@@ -1,4 +1,4 @@
-package go-modules
+package gomodules
 
 type IDestructible interface {
 	ShowHp()
